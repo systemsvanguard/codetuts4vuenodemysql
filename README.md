@@ -6,7 +6,7 @@ FullStack Tutorials.  A Node.js and Express.js SPA web application with a Vue.js
 - npm install OR yarn install
 - npm install --save nodemon
 - nodemon index.js OR node index.js OR yarn run dev
-- Runs on port 5001 --> http://localhost:5001/
+- Runs on port 8088 --> http://localhost:8088/
 
 
 ## Features
